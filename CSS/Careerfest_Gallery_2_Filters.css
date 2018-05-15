@@ -90,6 +90,10 @@ body {
 	body {
 		border: 2px blue solid !important;
 	}
+	.class-card {
+	    width: 90% !important;
+	    margin: 10px !important;
+	}
 }
 
 
