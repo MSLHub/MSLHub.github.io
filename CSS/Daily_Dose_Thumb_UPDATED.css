@@ -1,0 +1,94 @@
+@charset "utf-8";
+
+/** Desktop Styles
+ ---------------------------------------------------------*/
+
+.dailyDoseThumb {
+    border: 1px #cacaca solid;
+    padding: 10px;
+    box-shadow: 5px 5px 5px #0000002e;
+    height: 370px;
+    position: relative;
+    margin: 0px 10px 30px 10px;
+}
+
+.dailyDoseThumb img {
+    width:100%;
+	border: 1px #00000012 solid;
+}
+
+.dailyDoseThumb .title {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.dailyDoseThumb p {
+    margin-top: 10px;
+    font-weight: normal;
+}
+
+span.type {
+    position: absolute;
+    bottom: 10px;
+    font-size: 14px;
+    line-height: 18.5px;
+    color: #6f7175;
+    font-family: Sephora Sans, Helvetica, Arial;
+    text-align: left;
+    text-decoration: none !important;
+}
+span.time {
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+	font-size: 14px;
+    line-height: 18.5px;
+    color: #6f7175;
+    font-family: Sephora Sans, Helvetica, Arial;
+    text-align: left;
+    text-decoration: none !important;
+}
+
+
+
+/** Mobile Styles
+ ---------------------------------------------------------*/
+
+body {
+	border: 0px red solid !important;	
+}
+
+
+/*  Surface Pro (Horizontal)   */
+
+@media (max-width: 1368px) {
+	body {
+		border: 0px orange solid  !important;	
+	}
+ 
+}
+
+
+
+/*  Surface Pro (Vertical)   */
+
+@media (max-width: 912px) { 
+	body {
+		border: 0px green solid  !important;	
+	}
+}
+
+
+
+/*  iPhone 7 Plus   */
+
+@media (max-width: 528px) { 
+	body {
+		border: 0px blue solid  !important;	
+	}
+}
+
+
+
+
+

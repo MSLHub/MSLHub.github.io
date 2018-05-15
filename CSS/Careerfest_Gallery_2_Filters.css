@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* JULY 2018 CAREERFEST CSS Document */
+
+/* BUTTON STATES */
+.ACTIVE {
+	opacity: 1.0;	
+}
+.PASSIVE {
+	opacity:.45;	
+}
+/* GALLERY OF CARDS */
+.class-card {
+    padding: 30px;
+    border: 1px #ececec solid;
+    border-radius: 5px;
+    width: 30%;
+    margin: 15px;
+    float: left;
+    height: 505px;
+    box-shadow: 5px 5px 5px #0000000a;
+}
+.class-card h1 {
+    font-weight:bold;
+}
+.class-card p {
+    font-size:14px;
+    line-height:18.27px;
+    margin-top:10px;
+}
+.class-card ul li {
+   margin:9px 0px 0px 15px;
+   color:#6f7179;
+}
+.day-menu.row.text-center {
+    margin: 30px 0px;
+}
+.day-menu p {
+    display: inline-block;
+    padding: 10px;
+    text-transform: uppercase;
+    font-size: 15px;
+    color: #000000;
+    font-weight: bold;
+}
+a.black-button {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 15px 0px 15px 0px;
+    background: #000;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 5px;
+    font-weight: bold;
+    letter-spacing: 1.2;
+}
+
+/* Desktop */
+body {
+	border: 2px red solid !important;
+}
+	
+	
+/* Surface Pro Horizontal */
+@media (max-width: 1368px) {
+	body {
+		border: 2px orange solid !important;
+	}
+	.class-card {
+		height: 560px;
+	}
+}
+
+
+/* Surface Pro Vertical View */
+@media (max-width: 912px) { 
+	body {
+		border: 2px green solid !important;
+	}
+}
+
+
+/* iPhone Vertical */
+@media (max-width: 528px) { 
+	body {
+		border: 2px blue solid !important;
+	}
+}
+
+
+
