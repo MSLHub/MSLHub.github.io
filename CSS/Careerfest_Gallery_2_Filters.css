@@ -62,14 +62,14 @@ div#noResults p {
 
 /* Desktop */
 body {
-	border: 2px red solid !important;
+	border: 0px red solid !important;
 }
 	
 	
 /* Surface Pro Horizontal */
 @media (max-width: 1368px) {
 	body {
-		border: 2px orange solid !important;
+		border: 0px orange solid !important;
 	}
 	.class-card {
 		height: 560px;
@@ -80,7 +80,7 @@ body {
 /* Surface Pro Vertical View */
 @media (max-width: 912px) { 
 	body {
-		border: 2px green solid !important;
+		border: 0px green solid !important;
 	}
 }
 
@@ -88,7 +88,7 @@ body {
 /* iPhone Vertical */
 @media (max-width: 528px) { 
 	body {
-		border: 2px blue solid !important;
+		border: 0px blue solid !important;
 	}
 	.class-card {
 	    width: 90% !important;
