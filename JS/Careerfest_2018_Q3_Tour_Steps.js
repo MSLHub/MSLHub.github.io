@@ -18,8 +18,8 @@ var tour = new Tour({
   {
     element: "#tour-categories",
 	placement: "top",
-    title: "Then, choose a Competency that you'd like to develop",
-    content: "Hopefully, this filter can help you choose the best class to improve your skillset."
+    title: "Then, choose a Competency",
+    content: "You can learn more about Sephora's Competencies, <a target="_blank" href="https://intranet.sephora.com/FSC/Departments/Human-Resources/Leading-the-Sephora-Way/Leading-the-Sephora-Way/">Here.</a>"
   },
   {
     element: "#tour-card",
