@@ -13,7 +13,7 @@ var tour = new Tour({
     element: "#tour-days",
 	placement: "top",
     title: "Choose a Day that works best for you",
-    content: "Simply click on the day that works best for your schedule, and the available class cards will sort below."
+    content: "Only available classes will sort below."
   },
   {
     element: "#tour-categories",
