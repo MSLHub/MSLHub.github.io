@@ -46,13 +46,13 @@ a.black-button {
     display: block;
     width: 100%;
     text-align: center;
-    padding: 15px 0px 15px 0px;
+    padding: 10px 0px 10px 0px;
     background: #000;
     color: #fff;
     text-transform: uppercase;
     border-radius: 5px;
     font-weight: bold;
-    letter-spacing: 1.2;
+    font-size: 13px;
 }
 a.gray-button {
     display: block;
@@ -64,7 +64,7 @@ a.gray-button {
     text-transform: uppercase;
     border-radius: 5px;
     font-weight: bold;
-    letter-spacing: 1.2;
+    font-size: 13px;
 }
 div#noResults p {
         text-align: center;
