@@ -4,55 +4,25 @@
 var tour = new Tour({
   steps: [ 
   {
-    element: "#MSL-initialize-tour",
+    element: "#tour-launch",
 	placement: "bottom",
-    title: "<span class='glyphicon glyphicon-star'></span> Welcome to MSL!",
-    content: "Press 'next' to see page features."
+    title: "Welcome to the Careerfest Registration Page!",
+    content: "Here, you can register for a Careerfest class. Or many! Press 'next' to see how."
   },
   {
-    element: "#ctl00_header_headerResponsive_lnkNavBar",
+    element: "#tour-days",
 	placement: "bottom",
-    title: "<span class='glyphicon glyphicon-phone'></span> New Menu!",
-    content: "Click <span class='glyphicon glyphicon-menu-hamburger'></span> to view popular pages and <span class='glyphicon glyphicon-search'></span> to start searching. <img width='100%' src='https://media.giphy.com/media/wHeY6VAHY8pN33OVTA/giphy.gif'/>"
+    title: "Choose a Day that works best for you",
+    content: "Simply click on the day that works best for your schedule, and the available class cards will sort below."
   },
   {
-    element: "#header_headerResponsive_lnkNavBar",
+    element: "#tour-categories",
 	placement: "bottom",
-    title: "<span class='glyphicon glyphicon-phone'></span> New Menu!",
-    content: "Click <span class='glyphicon glyphicon-menu-hamburger'></span> to view popular pages and <span class='glyphicon glyphicon-search'></span> to start searching. <img width='100%' src='https://media.giphy.com/media/wHeY6VAHY8pN33OVTA/giphy.gif'/>"
+    title: "Then, choose a Competency that you'd like to develop",
+    content: "Hopefully, this filter can help you choose the best class to improve your skillset."
   },
   {
-    element: "#tour-priority-1",
-	placement: "top",
-    title: "<span class='glyphicon glyphicon-info-sign'></span> Daily Dose 1",
-    content: "Training for all cast."
-  },
-  {
-    element: "#tour-priority-2",
-	placement: "top",
-    title: "<span class='glyphicon glyphicon-info-sign'></span> Daily Dose 2",
-    content: "Training for all selling cast."
-  },
-  {
-    element: "#tour-priority-3",
-	placement: "top",
-    title: "<span class='glyphicon glyphicon-info-sign'></span> Daily Dose 3, Brand Training",
-    content: "Training for full time selling cast. Choose the video that matches your world."
-  },
-  {
-    element: "#tour-priority-4",
-	placement: "top",
-    title: "<span class='glyphicon glyphicon-info-sign'></span> Daily Dose 4",
-    content: "For full time selling cast."
-  },
-  {
-    element: "#tour-past-daily-doses",
-	placement: "top",
-    title: "<span class='glyphicon glyphicon-info-sign'></span> Past Daily Doses",
-    content: "See previous week priorities here."
-  },
-  {
-    element: "#tour-leave-feedback",
+    element: "#survey-link",
 	placement: "top",
     title: "<span class='glyphicon glyphicon-thumbs-up'></span> Leave Feedback",
     content: "Tell us what works and what could be improved."
