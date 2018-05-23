@@ -102,6 +102,18 @@ body {
 	body {
 		border: 3px green solid !important;
 	}
+	.class-card {
+	    padding: 30px;
+	    border: 1px #ececec solid;
+	    border-radius: 5px;
+	    width: 40%;
+	    margin: 15px;
+	    float: left;
+	    height: 680px !important;
+	    box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.09);
+	}
+
+
 }
 
 
