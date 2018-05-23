@@ -54,13 +54,6 @@ var tour = new Tour({
 ]});
 
 
-function startTour() {
-    // Initialize the tour
-    tour.init();
-    // Restart from begining
-    tour.restart();
-    // Start the tour
-    tour.start(true);
-}
+
 
 
