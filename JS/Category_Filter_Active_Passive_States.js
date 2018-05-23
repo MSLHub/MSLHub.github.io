@@ -1,5 +1,6 @@
 // Change active state of filterable buttons 
 
+/*
 // By default, "View All" is the active button
 $('#buttonAll').addClass( 'ACTIVE' );
 $('#buttonNone').addClass( 'PASSIVE' );
@@ -7,6 +8,8 @@ $('#button1').addClass( 'PASSIVE' );
 $('#button2').addClass( 'PASSIVE' );
 $('#button3').addClass( 'PASSIVE' );
 $('#button4').addClass( 'PASSIVE' );
+*/
+
 
 // When user chooses, "buttonAll", make it stand-out
 $('#buttonAll').click(function() {
