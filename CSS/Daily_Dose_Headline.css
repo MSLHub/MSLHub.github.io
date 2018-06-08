@@ -23,3 +23,36 @@ h2.MSL-date-range {
 	display: block;
 	padding-top: 80px;
 }
+
+/**** TABLET HORIZONTAL: BREAKPOINT ********/
+
+@media (max-width: 1368px) {
+
+	h2.MSL-date-range {
+		margin-top: 0px !important;
+	}
+
+}
+
+/**** TABLET VERTICAL && PHONE HORIZONTAL: BREAKPOINT ********/
+
+@media (max-width: 912px) { 
+
+	.MSL-Headine-Desktop {
+		display: block;
+		padding: 30px 0px 10px 0px;
+		width: 60%;
+	}
+	h2.MSL-date-range {
+		display: block;
+		text-align: center;
+		padding-bottom: 30px !important;
+	}
+
+}
+
+/**** PHONE VERTICAL: BREAKPOINT *****/
+@media (max-width: 528px) { 
+
+}
+
