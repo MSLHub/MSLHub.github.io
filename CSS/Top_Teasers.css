@@ -25,6 +25,10 @@ h3.MSL-Welcome-Name {
     cursor: pointer !important;
 }
 
+
+// GET HELP BUTTON 
+
+
 .white-button {
     background: white;
     padding: 10px 15px;
@@ -44,6 +48,18 @@ h3.MSL-Welcome-Name {
     background: #FFF;
 }
 
+.help-widgetOpen {
+  width: 300px !important;
+  background: white;
+  border: 1px #d8d8d8 solid;
+  box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
+  max-width: 100%;
+}
+
+.help-content {
+  width: 300px;
+}
+
 a#gethelp {
     display: inline-block;
     box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
@@ -53,6 +69,13 @@ a#gethelp {
     background: #FFF;
     color: #5c8552;
     font-weight: bold;
+}
+
+.gethelpOpen {
+    background-color: #55804b !important;
+    display: block !important;
+    width: 100% !important;
+    color: #FFF !important;
 }
 
 p.close-help-me {
