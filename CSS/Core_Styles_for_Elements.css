@@ -60,7 +60,6 @@ h6 {font-size:11px;}
 	display: block;
 }
 
-
 a.primary-button {
     background: #fff;
     text-decoration: none;
@@ -70,23 +69,18 @@ a.primary-button {
     display: inline-block;
     box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
 }
-.MSL-Top-Left {
-	position: absolute;
-	left: 25px;
-	top: 25px;
-	text-align: left;
+.white-button {
+	background: white;
+	padding: 7px;
+	display: inline-block;
+	text-align: center;
+	color: #000;
+	position: relative;
+	min-width: 100px;
+	box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
+	vertical-align: top;
 }
-.MSL-Top-Right {
-	position: absolute;
-	right: 10px;
-	top: 10px;
-	text-align: right;
-	z-index: 1000;
-}
-h3.MSL-Welcome-Name {
-    padding: 5px 7px;
-    color: black;
-}
+
 .MSL-Section-Footer {
 	text-align: center;
 }
@@ -100,35 +94,5 @@ p.footer-p {
 	border-left: 1px #00000030 solid;
 	padding: 10px;
 }
-.thumb-wrapper {
-    border: 1px #0000002b solid;
-    height: 300px;
-    box-shadow: 1px 1px 4px 0px #00000042;
-    position: relative;
-}
-.white-button {
-	background: white;
-	padding: 7px;
-	display: inline-block;
-	text-align: center;
-	color: #000;
-	position: relative;
-	min-width: 100px;
-	box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
-	vertical-align: top;
-}
-.LO-type-duration-WRAPPER {
-    border: 0px red solid;
-    position: absolute;
-    bottom: 10px;
-    width: 90%;
-    display: block;
-}
-
-p.thumb-title {
-    font-weight: bold;
-}
-
-
 
 
