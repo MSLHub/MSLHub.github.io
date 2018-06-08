@@ -1,0 +1,106 @@
+.MSL-Number-Icon {
+    width: 60px;
+    z-index: 2;
+    position: absolute;
+    top: -20px;
+    left: -20px;
+}
+.MSL-Daily-Dose-Column {
+    width: 20%;
+    max-width: 350px;
+    display: inline-block;
+    position: relative;
+    margin: 10px 10px 30px 10px;
+    vertical-align: top;
+    text-align: -webkit-auto;
+    background: #FFF;
+    padding: 17px;
+    /* box-shadow: 4px 5px 5px rgba(0, 0, 0, 0.08); */
+    min-height: 330px;
+    border: 1px #c1c1c1 solid;
+    border-radius: 5px;
+}
+.MSL-Ad-Column {
+    width: 20%;
+    max-width: 350px;
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+}
+.MSL-Half-Column {
+ width: 20%;
+ max-width: 350px;
+ display: inline-block;
+ margin: 10px;
+ vertical-align: top;
+}
+.MSL-Thumb-Image {
+    width: 100%;
+    border-radius: 5px;
+}
+.MSL-Thumb-Information {
+ padding:10px;
+ overflow: auto;
+} 
+.MSL-LOType {
+ float:left;
+ display: inline-block;
+}
+.MSL-LODuration {
+ float:right;
+ display: inline-block;
+}
+p.MSL-Description {
+    font-weight: normal;
+}
+p.MSL-LOType, p.MSL-LODuration {
+ font-size:13px;
+}
+.MSL-Headline-Grabbers {
+	position: relative;
+	display: block;
+	padding-top: 80px;
+}
+.MSL-LOTitle {
+    text-transform: uppercase;
+    /* font-weight: bold; */
+    color: #55804b;
+    font-family: Georgia, serif;
+    line-height: 15.5px;
+    letter-spacing: .3;
+}
+
+
+
+/********** TABLET HORIZONTAL: BREAKPOINT ************/
+
+@media (max-width: 1368px) {
+
+}
+
+
+
+
+/********** TABLET VERTICAL && PHONE HORIZONTAL: BREAKPOINT ************/
+
+@media (max-width: 912px) { 
+ .MSL-Daily-Dose-Column {
+  width: 80%;
+ }
+ .MSL-Ad-Column {
+  width: 80%;
+ }
+ MSL-Half-Column {
+  width: 80%;
+ }
+
+}
+
+
+
+/********** PHONE VERTICAL: BREAKPOINT ************/
+
+@media (max-width: 528px) { 
+
+}
+
