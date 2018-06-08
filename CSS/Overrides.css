@@ -68,7 +68,7 @@ div#ctl00_footer_pnlCustomFooter {
  
 }
 .lSAction > .lSNext {
-    right: -9px !important;
+    right: 0px !important;
 }
 .lSAction > a {
     margin-top: -40px !important;
@@ -77,13 +77,13 @@ div#ctl00_footer_pnlCustomFooter {
 .left_V2 {
     background: #55804b;
     color: #fff;
-    font-size: 36px;
+    font-size: 22px;
     padding: 5px;
 }
 .right_V2 {
     background: #55804b;
     color: #fff;
-    font-size: 36px;
+    font-size: 22px;
     padding: 5px;
 }
 
