@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+/********* LINKS **************/
+a {
+	text-decoration: none !important;
+}
+a:link {
+    text-decoration: none !important;
+}
+
+a:visited {
+    text-decoration: none !important;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+a:active {
+    text-decoration: none !important;
+}
+
+
+/********* CUSTOM PAGE: HTML WIDGET  **************/
+
+.widgetDropped {
+	margin: -20px 0px 0px 0px !important;
+}
+
+.popover {
+	max-width: 300px !important;
+	width: 300px !important;
+}
+
+div#mainContainer {
+	padding: 0px !important;
+}
+
+div#ctl00_footer_pnlCustomFooter {
+	display: none !important;
+}
+
+
+/********* HEADINGS  **************/
+
+.h1, .h2, .h3, h1, h2, h3 {
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	text-align:left;
+}
+
+/********* BOOTSRAP TOUR  **************/
+
+#MSL-initialize-tour, a {
+	cursor:pointer !important; 
+}
+
+/********* LIGHTSLIDER  **************/
+
+.lSAction > a {
+    background-image: none !important;
+}
+.lSAction > .lSPrev {
+    left: 0px !important;
+ 
+}
+.lSAction > .lSNext {
+    right: -9px !important;
+}
+.lSAction > a {
+    margin-top: -40px !important;
+    opacity: 1.0 !important;
+}
+.left_V2 {
+    background: #55804b;
+    color: #fff;
+    font-size: 36px;
+    padding: 5px;
+}
+.right_V2 {
+    background: #55804b;
+    color: #fff;
+    font-size: 36px;
+    padding: 5px;
+}
+
+
+
+/********** TABLET HORIZONTAL: BREAK POINT ****************/
+
+@media (max-width: 1368px) {
+ ul.slider-1UP {
+  height:220px !important;
+ }
+}
+
+
+/********** TABLET VERTICAL && PHONE HORIZONTAL: BREAKPOINT ****************/
+@media (max-width: 912px) { 
+ ul.slider-1UP {
+  height:270px !important;
+ }
+}
+
+/********** PHONE VERTICAL: BREAKPOINT ****************/
+@media (max-width: 528px) { 
+ ul.slider-1UP {
+  height:220px !important;
+ }
+}
