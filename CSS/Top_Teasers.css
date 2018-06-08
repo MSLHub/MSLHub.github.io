@@ -20,3 +20,46 @@ h3.MSL-Welcome-Name {
   background: #FFF;
   box-shadow: 2px 2px 2px #00000052;
 }
+
+#MSL-initialize-tour, a {
+    cursor: pointer !important;
+}
+
+.white-button {
+    background: white;
+    padding: 10px 15px;
+    display: inline-block;
+    text-align: center;
+    color: #5c8552;
+    position: relative;
+    min-width: 100px;
+    box-shadow: 2px 2px 9px 0px rgba(0, 0, 0, 0.6);
+    vertical-align: top;
+    font-weight: bold;
+}
+
+#help-widget {
+    width: 100px;
+    display: inline-block;
+    background: #FFF;
+}
+
+a#gethelp {
+    display: inline-block;
+    box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
+    width: 100px;
+    text-align: center;
+    padding: 10px 15px;
+    background: #FFF;
+    color: #5c8552;
+    font-weight: bold;
+}
+
+p.close-help-me {
+    text-align: center;
+    margin: 10px 0px 0px 0px;
+    cursor: pointer;
+    padding: 10px;
+}
+
+
