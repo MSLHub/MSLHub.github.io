@@ -6,16 +6,16 @@
 }
 
 h2.MSL-date-range {
-  margin-bottom: 0px !important;
-  /* font-weight: bold; */
-  text-transform: uppercase;
-  margin-top: 0px !important;
-  display: inline;
-  padding-bottom: 60px;
-  margin-left: auto;
-  margin-right: auto;
-  color: #55804b;
-  /* text-shadow: 2px 2px 2px #00000038; */
+    margin-bottom: 0px !important;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 0px !important;
+    display: inline;
+    padding-bottom: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #55804b;
+    /* text-shadow: 2px 2px 2px #00000038; */
 }
 
 .MSL-Headline-Grabbers {
