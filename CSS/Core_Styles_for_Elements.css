@@ -70,17 +70,17 @@ a.primary-button {
     box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
 }
 .white-button {
-	background: white;
-	padding: 7px;
-	display: inline-block;
-	text-align: center;
-	color: #000;
-	position: relative;
-	min-width: 100px;
-	box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
-	vertical-align: top;
+    background: #FFF;
+    padding: 10px 15px;
+    display: inline-block;
+    text-align: center;
+    color: #55804b;
+    position: relative;
+    min-width: 100px;
+    box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
+    vertical-align: top;
+    font-weight: bold;
 }
-
 .additional-resources-heading {
     width: 600px;
     max-width: 100%;
