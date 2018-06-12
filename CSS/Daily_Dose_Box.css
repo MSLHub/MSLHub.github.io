@@ -52,9 +52,13 @@
 }
 p.MSL-Description {
     font-weight: normal;
+    color: #8a8a8a;
 }
 p.MSL-LOType, p.MSL-LODuration {
- font-size:13px;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #55804b;
 }
 .MSL-Headline-Grabbers {
 	position: relative;
@@ -63,13 +67,13 @@ p.MSL-LOType, p.MSL-LODuration {
 }
 .MSL-LOTitle {
     text-transform: uppercase;
-    /* font-weight: bold; */
+    font-weight: bold;
     color: #55804b;
-    font-family: Georgia, serif;
-    line-height: 15.5px;
+    /* font-family: Georgia, serif; */
+    line-height: 17px;
     letter-spacing: .3;
+    font-size: 16px;
 }
-
 
 
 /********** TABLET HORIZONTAL: BREAKPOINT ************/
