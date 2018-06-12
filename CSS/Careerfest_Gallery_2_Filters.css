@@ -22,10 +22,10 @@
 .class-card h1 {
     font-weight:bold;
 }
-.class-card p {
-    font-size:14px;
-    line-height:18.27px;
-    margin-top:10px;
+.class-card p, .class-card ul {
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: .3;
 }
 .class-card ul li {
    margin:9px 0px 0px 15px;
