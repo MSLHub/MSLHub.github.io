@@ -10,14 +10,13 @@
 }
 /* GALLERY OF CARDS */
 .class-card {
-    padding: 10px 30px 0px 33px;
-    border: 1px #ececec solid;
-    border-radius: 5px;
-    width: 30%;
-    margin: 15px;
-    float: left;
-    height: 670px;
-    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.04);
+	padding: 10px 30px 0px 33px;
+	border: 1px #ececec solid;
+	border-radius: 5px;
+	width: 30%;
+	margin: 15px;
+	float: left;
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.04);
 	position: relative;
 }
 .pick-time {
@@ -102,9 +101,6 @@ body {
 	body {
 		border: 0px orange solid !important;
 	}
-	.class-card {
-		height: 670px;
-	}
 }
 
 
@@ -120,7 +116,6 @@ body {
 	    width: 40%;
 	    margin: 15px;
 	    float: left;
-	    height: 680px !important;
 	    box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.09);
 	}
 
