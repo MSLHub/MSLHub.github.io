@@ -18,12 +18,10 @@
     float: left;
     height: 670px;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.04);
-		position: relative;
+	position: relative;
 }
 .pick-time {
-    position: absolute;
-    bottom: 30px;
-    width: 80%;
+
 }
 .disclaimer {
     font-size: 12px !important;
