@@ -21,9 +21,8 @@
 		position: relative;
 }
 .pick-time {
-    border: 1px red solid;
     position: absolute;
-    bottom: 0px;
+    bottom: 10px;
     width: 80%;
 }
 .disclaimer {
