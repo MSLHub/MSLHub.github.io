@@ -92,7 +92,7 @@ ul.slider-1UP {
 }
 
 
-body {border: 2px red solid;}
+body {border: 2px red solid !important;}
 
 /********** TABLET HORIZONTAL: BREAK POINT ****************/
 
@@ -100,7 +100,7 @@ body {border: 2px red solid;}
  ul.slider-1UP {
   height:340px !important;
  }
-body {border: 2px blue solid;}
+body {border: 2px blue solid !important;}
 }
 
 
@@ -109,7 +109,7 @@ body {border: 2px blue solid;}
  ul.slider-1UP {
   height:350px !important;
  }
-	body {border: 2px green solid;}
+	body {border: 2px green solid !important;}
 }
 
 /********** PHONE VERTICAL: BREAKPOINT ****************/
@@ -117,5 +117,5 @@ body {border: 2px blue solid;}
  ul.slider-1UP {
   height:350px !important;
  }
-	body {border: 2px orange solid;}
+	body {border: 2px orange solid !important;}
 }
