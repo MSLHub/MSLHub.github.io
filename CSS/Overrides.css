@@ -99,6 +99,9 @@ ul.slider-1UP {
  ul.slider-1UP {
   height:340px !important;
  }
+	.lSAction > a {
+		margin-top: -170px !important;
+	}
 }
 
 
