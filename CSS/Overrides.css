@@ -91,12 +91,16 @@ ul.slider-1UP {
     min-height: 420px !important;
 }
 
+
+body {border: 2px red solid;}
+
 /********** TABLET HORIZONTAL: BREAK POINT ****************/
 
 @media (max-width: 1368px) {
  ul.slider-1UP {
   height:340px !important;
  }
+body {border: 2px blue solid;}
 }
 
 
@@ -105,6 +109,7 @@ ul.slider-1UP {
  ul.slider-1UP {
   height:350px !important;
  }
+	body {border: 2px green solid;}
 }
 
 /********** PHONE VERTICAL: BREAKPOINT ****************/
@@ -112,4 +117,5 @@ ul.slider-1UP {
  ul.slider-1UP {
   height:350px !important;
  }
+	body {border: 2px orange solid;}
 }
