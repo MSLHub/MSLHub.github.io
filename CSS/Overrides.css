@@ -88,7 +88,7 @@ div#ctl00_footer_pnlCustomFooter {
 }
 
 ul.slider-1UP {
- min-height:300px !important;
+    min-height: 420px !important;
 }
 
 /********** TABLET HORIZONTAL: BREAK POINT ****************/
