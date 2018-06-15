@@ -88,8 +88,9 @@ div#ctl00_footer_pnlCustomFooter {
 }
 
 ul.slider-1UP {
-    min-height: 420px !important;
+ min-height:300px !important;
 }
+
 
 
 
