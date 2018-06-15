@@ -71,9 +71,10 @@ div#ctl00_footer_pnlCustomFooter {
     right: 0px !important;
 }
 .lSAction > a {
-    margin-top: -120px !important;
+    margin-top: -50px !important;
     opacity: 1.0 !important;
 }
+
 .left_V2 {
     background: #55804b;
     color: #fff;
@@ -100,9 +101,11 @@ ul.slider-1UP {
  ul.slider-1UP {
   height:340px !important;
  }
-	.lSAction > a {
-		margin-top: -170px !important;
-	}
+.lSAction > a {
+	margin-top: -105px !important;
+	opacity: 1.0 !important;
+}
+
 }
 
 
