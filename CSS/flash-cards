@@ -1,0 +1,37 @@
+.card {
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+}
+.card h3 {
+    font-weight: bold;
+    margin: 0px 0px 10px 0px !important;
+    font-size: 14px;
+    padding: 8px;
+}
+.card h3, .card p {
+    text-align: center !important;
+}
+.hand-written {
+    font-family: 'Coming Soon', cursive !important;
+}
+.front {
+    color: #383838;
+    width: 200px !important;
+    height: 200px !important;
+    vertical-align: top;
+    padding: 60px 40px;
+    text-align: center;
+    background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/Flash_Card_FRONT.jpg);
+    background-size: 200px 200px;
+}
+.back {
+    color: #383838;
+    width: 200px !important;
+    height: 200px !important;
+    vertical-align: top;
+    padding: 60px 40px;
+    text-align: center;
+    background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/Flash_Card_FRONT.jpg);
+    background-size: 200px 200px;
+}
