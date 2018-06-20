@@ -17,21 +17,21 @@
 }
 .front {
     color: #383838;
-    width: 200px !important;
-    height: 200px !important;
+    width: 389px !important;
+    height: 268px !important;
     vertical-align: top;
     padding: 60px 40px;
     text-align: center;
-    background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/Flash_Card_FRONT.jpg);
+    background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/25062018_WHITE_CARD.jpg);
     background-size: 200px 200px;
 }
 .back {
     color: #383838;
-    width: 200px !important;
-    height: 200px !important;
+    width: 389px !important;
+    height: 268px !important;
     vertical-align: top;
     padding: 60px 40px;
     text-align: center;
-    background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/Flash_Card_FRONT.jpg);
+    background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/25062018_WHITE_CARD.jpg);
     background-size: 200px 200px;
 }
