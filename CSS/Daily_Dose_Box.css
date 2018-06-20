@@ -58,7 +58,7 @@ p.MSL-LOType, p.MSL-LODuration {
     font-size: 14px;
     font-weight: bold;
     text-transform: uppercase;
-    color: #55804b;
+    color: #4a4a4a;
 }
 .MSL-Headline-Grabbers {
 	position: relative;
@@ -68,8 +68,7 @@ p.MSL-LOType, p.MSL-LODuration {
 .MSL-LOTitle {
     text-transform: uppercase;
     font-weight: bold;
-    color: #55804b;
-    /* font-family: Georgia, serif; */
+    color: #4a4a4a;
     line-height: 17px;
     letter-spacing: .3;
     font-size: 16px;
