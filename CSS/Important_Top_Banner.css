@@ -2,7 +2,11 @@ a.closeThis1,a.closeThis2 {
   color: #FFFFFF;text-decoration: none;
 }
 
-#MSL-Kontiki-Message-1 {
+#MSL-Kontiki-Message-1 { background: #58150d; color: #fff; padding: 7px 14px; width: 100%; text-align: center; }
+
+#red-top-text-banner { background: #58150d; color: #fff; padding: 7px 14px; width: 100%; text-align: center; }
+
+#green-top-text-banner {
     background: #55804b;
     color: #fff;
     padding: 7px 14px;
@@ -11,6 +15,7 @@ a.closeThis1,a.closeThis2 {
     font-size: 12px;
     letter-spacing: .5px;
 }
+
 
 #MSL-Kontiki-Message-2 {
     background: #909090;
