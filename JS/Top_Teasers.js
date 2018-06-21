@@ -96,6 +96,13 @@ function startTour() {
 // IMPORTANT TOP MESSAGES 
 
 
+
+function closeThisGreen() {
+ $("#green-top-text-banner").hide();
+};
+
+
+
 function closeThis1() {
  $("#MSL-Kontiki-Message-1").hide();
 };
