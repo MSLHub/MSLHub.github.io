@@ -3,11 +3,13 @@ a.closeThis1,a.closeThis2 {
 }
 
 #MSL-Kontiki-Message-1 {
-    background: #58150d;
+    background: #55804b;
     color: #fff;
     padding: 7px 14px;
     width: 100%;
     text-align: center;
+    font-size: 12px;
+    letter-spacing: .5px;
 }
 
 #MSL-Kontiki-Message-2 {
