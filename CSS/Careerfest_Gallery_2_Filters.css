@@ -40,6 +40,7 @@
     font-size: 12px;
     line-height: 16px;
     letter-spacing: .3;
+    text-align: left;
 }
 .day-menu p {
     display: inline-block;
