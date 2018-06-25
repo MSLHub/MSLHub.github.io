@@ -3,6 +3,10 @@
   color: white;
   padding:50px;
 }
+img.content-switch {
+    width: 25%;
+    text-align: center;
+}
 .content-switch {
   opacity: .45;
 }
