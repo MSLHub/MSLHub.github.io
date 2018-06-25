@@ -15,12 +15,24 @@
 .hand-written {
     font-family: 'Coming Soon', cursive !important;
 }
+h3.hand-written {
+    font-size: 12px;
+    letter-spacing: .7;
+    line-height: 1.5;
+}
+p.hand-written {
+    font-size: 11px;
+    letter-spacing: .8;
+    line-height: 1.4;
+    color: #2f2f2f;
+}
+
 .front {
     color: #383838;
     width: 200px !important;
     height: 132px !important;
     vertical-align: top;
-    padding: 30px 22px 30px 25px;
+    padding: 22px 22px 30px 25px;
     text-align: center;
     background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/25062018_Flash_Card_Updated.png);
     background-size: 200px 132px;
@@ -30,7 +42,7 @@
     width: 200px !important;
     height: 132px !important;
     vertical-align: top;
-    padding: 30px 22px 30px 25px;
+    padding: 30px 22px 30px 29px;
     text-align: center;
     background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/25062018_Flash_Card_Updated.png);
     background-size: 200px 132px;
