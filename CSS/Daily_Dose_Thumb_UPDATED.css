@@ -54,17 +54,13 @@ span.time {
 /** Mobile Styles
  ---------------------------------------------------------*/
 
-body {
-	border: 0px red solid !important;	
-}
+
 
 
 /*  Surface Pro (Horizontal)   */
 
 @media (max-width: 1368px) {
-	body {
-		border: 0px orange solid  !important;	
-	}
+
  
 }
 
@@ -73,9 +69,7 @@ body {
 /*  Surface Pro (Vertical)   */
 
 @media (max-width: 912px) { 
-	body {
-		border: 0px green solid  !important;	
-	}
+
 }
 
 
@@ -83,9 +77,7 @@ body {
 /*  iPhone 7 Plus   */
 
 @media (max-width: 528px) { 
-	body {
-		border: 0px blue solid  !important;	
-	}
+
 }
 
 
