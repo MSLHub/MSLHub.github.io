@@ -34,7 +34,7 @@ p.hand-written {
     vertical-align: top;
     padding: 22px 22px 30px 25px;
     text-align: center;
-    background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/25062018_Flash_Card_Updated.png);
+    background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/Flash_Card_FRONT.jpg);
     background-size: 200px 132px;
 }
 .back {
@@ -44,6 +44,6 @@ p.hand-written {
     vertical-align: top;
     padding: 30px 22px 30px 29px;
     text-align: center;
-    background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/25062018_Flash_Card_Updated.png);
+    background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/Flash_Card_FRONT.jpg);
     background-size: 200px 132px;
 }
