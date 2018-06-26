@@ -5,7 +5,7 @@
     top: -20px;
     left: -20px;
 }
-/*
+
 .MSL-Daily-Dose-Column {
     width: 20%;
     max-width: 350px;
@@ -19,8 +19,8 @@
     min-height: 390px;
     border: 1px #dcd6d6 solid;
     border-radius: 5px;
-}*/
-.MSL-Daily-Dose-Column {
+}
+/*.MSL-Daily-Dose-Column {
     width: 28%;
     max-width: 350px;
     display: inline-block;
@@ -33,7 +33,7 @@
     box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
     min-height: 330px;
 }
-
+*/
 .MSL-Ad-Column {
     width: 20%;
     max-width: 350px;
