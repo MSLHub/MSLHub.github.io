@@ -45,21 +45,17 @@
    margin: -90px 0px 0px -30px;
    position: absolute;
   }
-  body {border:0px red solid;}
-  
+
   /* Tablet Horizontal */
   @media (max-width: 1368px) {
-   body {border:0px orange solid;}
-  
   }
   
   /* Tablet Vertical  */
   @media (max-width: 912px) {
-  body {border:0px green solid;} 
-  .survey-shaker {
-   width: 140px !important;
-   top: 40px !important;
-   right: 0px !important;
-   margin:0px !important;
-  }
+	  .survey-shaker {
+	   width: 140px !important;
+	   top: 40px !important;
+	   right: 0px !important;
+	   margin:0px !important;
+	  }
   }
