@@ -5,6 +5,7 @@
     top: -20px;
     left: -20px;
 }
+/*
 .MSL-Daily-Dose-Column {
     width: 20%;
     max-width: 350px;
@@ -15,11 +16,24 @@
     text-align: -webkit-auto;
     background: #FFF;
     padding: 17px;
-    /* box-shadow: 4px 5px 5px rgba(0, 0, 0, 0.08); */
     min-height: 390px;
     border: 1px #dcd6d6 solid;
     border-radius: 5px;
+}*/
+.MSL-Daily-Dose-Column {
+    width: 28%;
+    max-width: 350px;
+    display: inline-block;
+    position: relative;
+    margin: 10px 10px 30px 10px;
+    vertical-align: top;
+    text-align: -webkit-auto;
+    background: #FFF;
+    padding: 17px;
+    box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
+    min-height: 330px;
 }
+
 .MSL-Ad-Column {
     width: 20%;
     max-width: 350px;
@@ -28,11 +42,11 @@
     vertical-align: top;
 }
 .MSL-Half-Column {
- width: 20%;
- max-width: 350px;
- display: inline-block;
- margin: 10px;
- vertical-align: top;
+	 width: 20%;
+	 max-width: 350px;
+	 display: inline-block;
+	 margin: 10px;
+	 vertical-align: top;
 }
 .MSL-Thumb-Image {
     width: 100%;
@@ -42,6 +56,12 @@
  padding:10px;
  overflow: auto;
 } 
+.LO-type-duration-WRAPPER {
+    position: absolute;
+    bottom: 10px;
+    width: 90%;
+    display: block;
+}
 .MSL-LOType {
  float:left;
  display: inline-block;
