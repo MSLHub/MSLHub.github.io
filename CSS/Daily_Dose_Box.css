@@ -59,8 +59,9 @@
 .LO-type-duration-WRAPPER {
     position: absolute;
     bottom: 10px;
-    width: 90%;
+    width: 80%;
     display: block;
+    margin: 0px 0px 0px -10px;
 }
 .MSL-LOType {
  float:left;
