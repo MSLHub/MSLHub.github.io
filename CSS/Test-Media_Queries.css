@@ -1,24 +1,22 @@
 
-body {
-  border:3px red solid;
-}
+body {border:3px red solid;}
 
 /********** TABLET HORIZONTAL: BREAKPOINT ************/
 
 @media (max-width: 1368px) {
-  border:3px purple solid;
+ body { border:3px purple solid;}
 }
 
 
 /********** TABLET VERTICAL && PHONE HORIZONTAL: BREAKPOINT ************/
 
 @media (max-width: 912px) { 
-  border:3px green solid;
+  body {border:3px green solid;}
 }
 
 
 /********** PHONE VERTICAL: BREAKPOINT ************/
 
 @media (max-width: 528px) { 
-  border:3px orange solid;
+ body {border:3px orange solid;}
 }
