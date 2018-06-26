@@ -77,9 +77,9 @@ p.MSL-LOType, p.MSL-LODuration {
     text-transform: uppercase;
     font-weight: bold;
     color: #4a4a4a;
-    line-height: 17px;
-    letter-spacing: .3;
-    font-size: 16px;
+    line-height: 16px;
+    /* letter-spacing: .3; */
+    font-size: 15px;
 }
 
 
