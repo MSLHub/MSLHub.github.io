@@ -5,7 +5,15 @@
     top: -20px;
     left: -20px;
 }
-
+.MSL-Daily-Dose-slider-Column {
+    width: 20%;
+    max-width: 350px;
+    display: inline-block;
+    position: relative;
+    margin: 10px 10px 30px 10px;
+    vertical-align: top;
+    text-align: -webkit-auto;
+}
 .MSL-Daily-Dose-Column {
     width: 20%;
     max-width: 350px;
