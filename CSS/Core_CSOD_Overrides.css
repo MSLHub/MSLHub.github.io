@@ -88,9 +88,6 @@ div#ctl00_footer_pnlCustomFooter {
     padding: 5px;
 }
 
-ul.slider-1UP {
- min-height:300px !important;
-}
 
 
 
@@ -98,27 +95,19 @@ ul.slider-1UP {
 /********** TABLET HORIZONTAL: BREAK POINT ****************/
 
 @media (max-width: 1368px) {
- ul.slider-1UP {
-  height:340px !important;
- }
-.lSAction > a {
-	margin-top: -105px !important;
-	opacity: 1.0 !important;
-}
+
+	.lSAction > a {
+		margin-top: -105px !important;
+		opacity: 1.0 !important;
+	}
 
 }
 
 
 /********** TABLET VERTICAL && PHONE HORIZONTAL: BREAKPOINT ****************/
 @media (max-width: 912px) { 
- ul.slider-1UP {
-  height:350px !important;
- }
 }
 
 /********** PHONE VERTICAL: BREAKPOINT ****************/
 @media (max-width: 528px) { 
- ul.slider-1UP {
-  height:350px !important;
- }
 }
