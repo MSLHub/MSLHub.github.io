@@ -137,7 +137,9 @@ p.MSL-LOType, p.MSL-LODuration {
  .MSL-Half-Column {
   width: 80%;
  }
-
+	.MSL-Daily-Dose-slider-Column {
+		width: 80%;
+	}
 }
 
 
