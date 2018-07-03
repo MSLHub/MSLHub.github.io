@@ -6,6 +6,36 @@
 /* BLACK THEME */
 
 
+/* background Image */
+
+.splash-background_FoundationAnimation18 {
+    background-color: #FFF;
+    background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/Foundatioln_Animation_Splash_Background_V5.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: scroll;
+    background-size: 100% auto;
+    text-align: center;
+    position: relative;
+}
+/*Tablet Horz (for example, work Dell laptop screen and Surface Pro */
+@media (max-width: 1368px) {
+}
+/* Tablet Vert / Phone Horz*/
+@media (max-width: 912px) {
+ .splash-background_FoundationAnimation18  {
+  padding: 0px 20px;
+  background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/Foundatioln_Animation_Splash_Background_V5.jpg);
+ }
+}
+/* Phone Vert */
+@media (max-width: 528px) { 
+ .splash-background_FoundationAnimation18 {
+  padding: 0px 20px;
+  background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/Foundatioln_Animation_Splash_Background_V5.jpg);
+ }
+}
+
 
 /* Slider arrows */
 
