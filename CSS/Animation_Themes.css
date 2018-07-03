@@ -19,14 +19,14 @@
 @media (max-width: 912px) {
  .splash-background_FoundationAnimation18  {
   padding: 0px 20px;
-  background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/Foundatioln_Animation_Splash_Background_V6.jpg);
+  background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/Foundatioln_Animation_Splash_Background_MOBILE.jpg);
  }
 }
 /* Phone Vert */
 @media (max-width: 528px) { 
  .splash-background_FoundationAnimation18 {
   padding: 0px 20px;
-  background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/Foundatioln_Animation_Splash_Background_V6.jpg);
+  background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/Foundatioln_Animation_Splash_Background_MOBILE.jpg);
  }
 }
 
