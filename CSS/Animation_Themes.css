@@ -54,9 +54,8 @@
 h3.MSL-Welcome-Name_BLACK {
     font-weight: bold;
     padding: 10px 15px;
-    color: #000000;
-    background: #FFF;
-    box-shadow: 2px 2px 2px #00000052;
+    color: #ffffff;
+    text-shadow: 2px 2px 2px #00000052;
 }
 
 /* HELP WIDGET */
@@ -81,13 +80,14 @@ h3.MSL-Welcome-Name_BLACK {
 
 a#gethelp_BLACK {
     display: inline-block;
-    box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
+    /* box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45); */
     width: 100px;
     text-align: center;
     padding: 10px 15px;
-    background: #FFF;
-    color: #000000;
+    /* background: #FFF; */
+    color: #ffffff;
     font-weight: bold;
+    text-shadow: 2px 2px 2px #00000052;
 }
 
 .gethelpOpen_BLACK {
@@ -105,15 +105,14 @@ p.close-help-me_BLACK {
 }
 
 .white-button_BLACK {
-    background: #FFF;
+    /* background: #FFF; */
     padding: 10px 15px;
     display: inline-block;
     text-align: center;
-    color: #000000;
+    color: #ffffff;
     position: relative;
     min-width: 100px;
-    box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
+    text-shadow: 2px 2px 2px #00000052;
     vertical-align: top;
     font-weight: bold;
 }
-
