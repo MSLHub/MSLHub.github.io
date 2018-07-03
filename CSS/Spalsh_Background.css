@@ -9,16 +9,7 @@
     text-align: center;
     position: relative;
 }
-.splash-background_FoundationAnimation18 {
-    background-color: #FFF;
-    background-image: url(#);
-    background-repeat: no-repeat;
-    background-position: center top;
-    background-attachment: scroll;
-    background-size: 100% auto;
-    text-align: center;
-    position: relative;
-}
+
 /*Tablet Horizontal View Styles (for example, work Dell laptop screen and Surface Pro */
 @media (max-width: 1368px) {
  .splash-background {
@@ -31,19 +22,11 @@
   padding: 0px 20px;
   background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/20180406_Skincare_High_Mobilex528_Background.jpg);
  }
- .splash-background_FoundationAnimation18  {
-  padding: 0px 20px;
-  background-image: url(#);
- }
 }
 
 /* Phone Vertical View Styles */
 @media (max-width: 528px) { 
  .splash-background {
-  padding: 0px 20px;
-  background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/20180406_Skincare_High_Mobilex528_Background.jpg);
- }
- .splash-background_FoundationAnimation18 {
   padding: 0px 20px;
   background-image: url(https://sephora.csod.com/clientimg/sephora/welcome/20180406_Skincare_High_Mobilex528_Background.jpg);
  }
