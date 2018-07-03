@@ -2,9 +2,13 @@
 
 
 
+
 /* BLACK THEME */
 
+
+
 /* Slider arrows */
+
 .left_BLACK {
     background: #000;
     color: #fff;
@@ -24,6 +28,27 @@ h3.MSL-Welcome-Name_BLACK {
     background: #FFF;
     box-shadow: 2px 2px 2px #00000052;
 }
+
+/* HELP WIDGET */
+
+#help-widget_BLACK {
+    width: 100px;
+    display: inline-block;
+    background: #FFF;
+}
+
+.help-widgetOpen_BLACK {
+  width: 300px !important;
+  background: white;
+  border: 1px #d8d8d8 solid;
+  box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
+  max-width: 100%;
+}
+
+.help-content_BLACK {
+  width: 300px;
+}
+
 a#gethelp_BLACK {
     display: inline-block;
     box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
@@ -34,12 +59,21 @@ a#gethelp_BLACK {
     color: #000000;
     font-weight: bold;
 }
+
 .gethelpOpen_BLACK {
     background-color: #000000 !important;
     display: block !important;
     width: 100% !important;
     color: #FFF !important;
 }
+
+p.close-help-me_BLACK {
+    text-align: center;
+    margin: 10px 0px 0px 0px;
+    cursor: pointer;
+    padding: 10px;
+}
+
 .white-button_BLACK {
     background: #FFF;
     padding: 10px 15px;
