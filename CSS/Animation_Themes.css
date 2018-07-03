@@ -17,3 +17,10 @@
     font-size: 22px;
     padding: 5px;
 }
+h3.MSL-Welcome-Name_BLACK {
+    font-weight: bold;
+    padding: 10px 15px;
+    color: #000000;
+    background: #FFF;
+    box-shadow: 2px 2px 2px #00000052;
+}
