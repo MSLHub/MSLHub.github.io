@@ -40,11 +40,11 @@
 
 /***********  SURVEY BUBBLE // SHAKER *************/
 
-  .survey-shaker {
-   width: 180px;
-   margin: -90px 0px 0px -30px;
-   position: absolute;
-  }
+.survey-shaker {
+    width: 180px;
+    margin: -60px 0px 0px 0px;
+    position: absolute;
+}
 
   /* Tablet Horizontal */
   @media (max-width: 1368px) {
