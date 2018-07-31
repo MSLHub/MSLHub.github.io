@@ -1,0 +1,83 @@
+.retrofit-item p {
+	margin:0px;
+	padding:0px;
+	text-align:center;
+	font-size: 12px;
+}
+.retrofit-item p:nth-of-type(1) {
+	text-transform: uppercase;
+	font-size: .9375em;
+	padding: 5px 0px 0px 0px;
+}
+.retrofit-item p:nth-of-type(2) {
+	
+}
+.retrofit-item p:nth-of-type(3) {
+	padding: 0px 0px 10px 0px;
+}
+.retrofit-item img {
+    border: 1px black solid;
+}
+.sidebar {
+	padding-right: 18px;
+	margin-bottom: 12px;
+}
+.sidebar h3 {
+	font-size: 16px;
+	margin: 12px 0 6px; 
+	font-weight: 700;
+	line-height: 1.25;
+	color: #000;
+}
+.sidebar a {
+	color: #000;
+	display: block;
+	padding: 3px;
+	margin: -3px;
+	transition: color .2s;
+}
+.retrofits-menu {
+	background: #ffffff;
+	color: #fff;
+	line-height: 40px;
+	letter-spacing: 1px;
+	width: 100%;
+	text-align: center;
+}
+.INACTIVE-WORLD-BTNS, .WORLD-BTNS {
+	width:120px;
+	display:inline;
+}
+a.world-active {
+    color: #64af45;
+}
+.retrofit-item a:hover {
+    opacity: .65;
+}
+
+
+ul.world-onesheets li a {
+	text-transform: uppercase;
+	font-size: 12px;
+}
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: #FFF;
+    border-color: #ddd;
+}
+.panel-default {
+    border-color: #ddd3;
+}
+.panel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    color: inherit;
+}
+.panel-title a:hover, .panel-title a:link, .panel-title a:visited, .panel-title a:active {
+    padding: 10px;
+    color: black !important;
+    text-transform: uppercase;
+    font-size: 14px;
+	font-weight:bold;
+}
