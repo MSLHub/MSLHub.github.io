@@ -145,9 +145,6 @@ p.MSL-LOType, p.MSL-LODuration {
  .MSL-Daily-Dose-Column {
   width: 80%;
  }
-.MSL-Daily-Dose-Column-3UP {
-  width: 80%;
- }
  .MSL-Ad-Column {
   width: 80%;
  }
@@ -164,6 +161,8 @@ p.MSL-LOType, p.MSL-LODuration {
 /********** PHONE VERTICAL: BREAKPOINT ************/
 
 @media (max-width: 528px) { 
-
+.MSL-Daily-Dose-Column-3UP {
+  width: 80%;
+ }
 }
 
