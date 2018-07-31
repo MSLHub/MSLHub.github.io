@@ -23,6 +23,23 @@ a:active {
     text-decoration: none !important;
 }
 
+a {
+   outline: 0 !important;
+}
+object, embed { 
+  outline: 0 !important;
+}
+a:hover, a:active, a:focus {
+ font-weight:bold !important;
+ opacity: .65;
+}
+a:focus, button:focus, input:focus, select:focus, textarea:focus, div[tabindex="0"]:focus, img[tabindex="0"]:focus, div.checker.focus span {
+	outline: dotted 0px #777777 !important;
+	font-weight:bold !important;
+}
+
+
+
 
 /********* CUSTOM PAGE: HTML WIDGET  **************/
 
