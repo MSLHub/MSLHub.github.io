@@ -43,7 +43,7 @@
     border-radius: 5px;
 }
 .MSL-Daily-Dose-Column-3UP {
-    width: 30%;
+    width: 29%;
     max-width: 350px;
     display: inline-block;
     position: relative;
@@ -57,7 +57,21 @@
     border-radius: 5px;
 }
 .MSL-Daily-Dose-Column-3UP_SHORT {
-    width: 30%;
+    width: 29%;
+    max-width: 350px;
+    display: inline-block;
+    position: relative;
+    margin: 10px 10px 30px 10px;
+    vertical-align: top;
+    text-align: -webkit-auto;
+    background: #FFF;
+    padding: 17px;
+    min-height: 0px;
+    border: 1px #dcd6d6 solid;
+    border-radius: 5px;
+}
+.MSL-Daily-Dose-Column-2UP_SHORT {
+    width: 44%;
     max-width: 350px;
     display: inline-block;
     position: relative;
@@ -182,5 +196,11 @@ p.MSL-LOType, p.MSL-LODuration {
 .MSL-Daily-Dose-Column-3UP_SHORT {
   width: 80%;
  }
+	
+	.MSL-Daily-Dose-Column-2UP_SHORT{
+  width: 80%;
+ }
+	
+	
 }
 
