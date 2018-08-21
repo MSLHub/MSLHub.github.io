@@ -48,6 +48,10 @@ body {
     font-size: 22px;
     padding: 5px;
 }
+
+.lSAction > a {
+ width: 0px !important;
+}
 h3.MSL-Welcome-Name_BLACK {
     font-weight: bold;
     padding: 10px 15px;
