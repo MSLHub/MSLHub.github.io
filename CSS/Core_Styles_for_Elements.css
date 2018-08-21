@@ -100,6 +100,35 @@ a.primary-button {
     box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
 }
 
+.white-button-FULL-width {
+    display: block;
+    width:100%;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1.5;
+    text-align: center;
+    text-transform: uppercase;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    vertical-align: middle;
+    color: inherit;
+    background-color: #fff;
+    border-width: 1px;
+    border-color: transparent;
+    border-radius: 4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    min-height: 40px;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    padding-right: 16px;
+    padding-left: 16px;
+    -webkit-transition: box-shadow .15s ease-in-out;
+    transition: box-shadow .15s ease-in-out;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+    margin: 0px 0px 10px 0px;
+}
 .white-button {
     display: inline-block;
     cursor: pointer;
