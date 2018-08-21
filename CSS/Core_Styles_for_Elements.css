@@ -99,18 +99,35 @@ a.primary-button {
     display: inline-block;
     box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
 }
+
 .white-button {
-    background: #FFF;
-    padding: 10px 15px;
     display: inline-block;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1.5;
     text-align: center;
-    color: #55804b;
-    position: relative;
-    min-width: 100px;
-    box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
-    vertical-align: top;
-    font-weight: bold;
+    text-transform: uppercase;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    vertical-align: middle;
+    color: inherit;
+    background-color: #fff;
+    border-width: 1px;
+    border-color: transparent;
+    border-radius: 4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    min-height: 40px;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    padding-right: 16px;
+    padding-left: 16px;
+    -webkit-transition: box-shadow .15s ease-in-out;
+    transition: box-shadow .15s ease-in-out;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.25);
 }
+
 .additional-resources-heading {
     width: 600px;
     max-width: 100%;
