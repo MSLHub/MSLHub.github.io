@@ -84,6 +84,19 @@
     border: 1px #dcd6d6 solid;
     border-radius: 5px;
 }
+.MSL-Daily-Dose-Column-1UP_SHORT {
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    margin: 10px 10px 30px 10px;
+    vertical-align: top;
+    text-align: -webkit-auto;
+    background: #FFF;
+    padding: 17px;
+    min-height: 220px;
+    border: 1px #dcd6d6 solid;
+    border-radius: 5px;
+}
 .MSL-Daily-Dose-Column-1UP {
     width: 100%;
     display: inline-block;
