@@ -91,6 +91,7 @@
     min-height: 220px;
     border: 1px #dcd6d6 solid;
     border-radius: 5px;
+    position: relative;
 }
 .MSL-Daily-Dose-Column-1UP {
     width: 100%;
