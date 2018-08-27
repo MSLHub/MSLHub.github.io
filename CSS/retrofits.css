@@ -36,11 +36,12 @@ ul.world-onesheets {
 	color: #000;
 }
 .sidebar a {
-	color: #000;
-	display: block;
-	padding: 3px;
-	margin: -3px;
-	transition: color .2s;
+    color: #000;
+    display: block;
+    padding: 3px;
+    margin: -3px;
+    transition: color .2s;
+    font-weight: normal;
 }
 .retrofits-menu {
 	background: #ffffff;
