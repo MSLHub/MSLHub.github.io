@@ -131,7 +131,7 @@ p.close-help-me_RED {
 */
 a.red-button {
     background: #cf1f2e;
-    color: white;
+    color: #FFF !important;
     text-transform: uppercase;
     font-size: 14px;
     font-weight: bold;
