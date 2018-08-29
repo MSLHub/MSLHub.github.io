@@ -1,12 +1,15 @@
-// BODY 
-
+/*
+* === BODY ===
+*/
 body {
  background-color: #FFFFFF !important;   
 }
 
 
-// SPLASH HERO
 
+/*
+* === SPLASH HERO ===
+*/
 .splash-background_FirstatColor {
     position: relative;
     text-align: center;
@@ -20,8 +23,9 @@ body {
 }
 
 
-// HEADINGS 
-
+/*
+* === HEADINGS ===
+*/
 h2.MSL-date-range_RED {
     text-align: center;
     background: #cf1f2e;
@@ -33,7 +37,6 @@ h2.MSL-date-range_RED {
     font-weight: bold;
     padding: 5px;
 }
-
 h3.MSL-Welcome-Name_RED {
     background: #cf1f2e;
     color: white;
@@ -43,8 +46,10 @@ h3.MSL-Welcome-Name_RED {
     padding: 5px;
 }
 
-// LEADERSHIP BANNER
 
+/*
+* === LEADERSHIP BANNER ===
+*/
 .leadership_bg {
     background-color: #1818188a;
     background-size: 100% auto;
@@ -59,8 +64,9 @@ h3.MSL-Welcome-Name_RED {
 }
 
 
-// SLIDER ARROWS 
-
+/*
+* === SLIDER ARROWS ===
+*/
 .left_BLACK {
     background: #000;
     color: #fff;
@@ -75,13 +81,13 @@ h3.MSL-Welcome-Name_RED {
 }
 
 
-// FSC HELP WIDGET
-
+/*
+* === FSC HELP WIDGET ===
+*/
 #help-widget_RED {
     width: 100px;
     display: inline-block;
 }
-
 .help-widgetOpen_RED {
   width: 300px !important;
   background: white;
@@ -89,11 +95,9 @@ h3.MSL-Welcome-Name_RED {
   box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
   max-width: 100%;
 }
-
 .help-content_RED {
   width: 300px;
 }
-
 a#gethelp_RED {
     display: inline-block;
     /* box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45); */
@@ -105,14 +109,12 @@ a#gethelp_RED {
     font-weight: bold;
     text-shadow: 2px 2px 2px #00000052;
 }
-
 .gethelpOpen_RED {
     background-color: #000000 !important;
     display: block !important;
     width: 100% !important;
     color: #FFF !important;
 }
-
 p.close-help-me_RED {
     text-align: center;
     margin: 10px 0px 0px 0px;
@@ -121,8 +123,9 @@ p.close-help-me_RED {
 }
 
 
-// BUTTONS
-
+/*
+* === BUTTONS ===
+*/
 a.red-button {
     background: #cf1f2e;
     color: white;
