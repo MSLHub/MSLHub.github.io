@@ -90,11 +90,15 @@ h3.MSL-Welcome-Name_RED {
     display: inline-block;
 }
 .help-widgetOpen_RED {
-  width: 300px !important;
-  background: white;
-  border: 1px #d8d8d8 solid;
-  box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
-  max-width: 100%;
+    width: 300px !important;
+    background: white;
+    border: 1px #d8d8d8 solid;
+    box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
+    max-width: 100%;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    right: 0;
 }
 .help-content_RED {
   width: 300px;
