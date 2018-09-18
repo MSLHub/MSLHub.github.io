@@ -1,6 +1,14 @@
 @charset "utf-8";
 /* CSS Document */
 
+/* Floating right feedback prompt (Foundation Nation survey) */
+#give-us-feedback {
+    position: absolute;
+    left: 30px;
+    top: 40px;
+}
+
+
 #survey-link {
 	position: fixed;
 	bottom: 0px;
