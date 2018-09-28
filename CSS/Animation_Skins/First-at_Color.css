@@ -5,12 +5,12 @@
 .splash-background_FirstatColor {
     position: relative;
     text-align: center;
-    background-color: #4a4d56;
-    background-image: -webkit-gradient(linear,left top,left bottom,from(#eaebe5),to(#4a4d56));
-    background-image: -webkit-linear-gradient(top,#eaebe5 0,#4a4d56 100%);
-    background-image: -o-linear-gradient(top,#eaebe5 0,#4a4d56 100%);
-    background-image: linear-gradient(to bottom,#eaebe5 0,#4a4d56 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eaebe5', endColorstr='#4a4d56', GradientType=0);
+    background-color: rgba(74,77,86,.25);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(rgba(234,235,229,.25)),to(rgba(74,77,86,.25)));
+    background-image: -webkit-linear-gradient(top,rgba(234,235,229,.25) 0,rgba(74,77,86,.25) 100%);
+    background-image: -o-linear-gradient(top,rgba(234,235,229,.25) 0,rgba(74,77,86,.25) 100%);
+    background-image: linear-gradient(to bottom,rgba(234,235,229,.25) 0,rgba(74,77,86,.25) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='rgba(234,235,229,.25)', endColorstr='rgba(74,77,86,.25)', GradientType=0);
     background-repeat: repeat-x;
 }
 
