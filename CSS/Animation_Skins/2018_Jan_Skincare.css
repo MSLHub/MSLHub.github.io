@@ -1,0 +1,130 @@
+/*
+* === SPLASH HERO ===
+*/
+.splash-background_FirstatColor {
+    position: relative;
+    text-align: center;
+    background-color: rgba(74,77,86,.25);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(rgba(234,235,229,.25)),to(rgba(74,77,86,.25)));
+    background-image: -webkit-linear-gradient(top,rgba(234,235,229,.25) 0,rgba(74,77,86,.25) 100%);
+    background-image: -o-linear-gradient(top,rgba(234,235,229,.25) 0,rgba(74,77,86,.25) 100%);
+    background-image: linear-gradient(to bottom,rgba(234,235,229,.25) 0,rgba(74,77,86,.25) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='rgba(234,235,229,.25)', endColorstr='rgba(74,77,86,.25)', GradientType=0);
+    background-repeat: repeat-x;
+}
+
+
+/*
+* === HEADINGS ===
+*/
+h2.MSL-date-range {
+    text-align: center;
+    background: #cf1f2e;
+    width: 300px;
+    margin: -20px auto auto auto !important;
+    color: white;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px;
+}
+h3.MSL-Welcome-Name {
+    background: #cf1f2e;
+    color: white;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px;
+    display: inline-block;
+}
+
+
+/*
+* === LEADERSHIP BANNER ===
+*/
+.leadership_bg {
+    background-color: rgba(0,0,0,0.5);
+    background-size: 100% auto;
+    text-align: center;
+    position: relative;
+}
+.leadership_bg p {
+    font-size: 18px;
+    line-height:24px;
+    margin: 0px 90px 0px 20px;
+    color:#FFF;
+}
+
+
+/*
+* === SLIDER ARROWS ===
+*/
+.left {
+    background: #000;
+    color: #fff;
+    font-size: 22px;
+    padding: 5px;
+}
+.right {
+    background: #000;
+    color: #fff;
+    font-size: 22px;
+    padding: 5px;
+}
+
+
+/*
+* === FSC HELP WIDGET ===
+*/
+#help-widget {
+    width: 100px;
+    display: inline-block;
+}
+.help-widgetOpen {
+    width: 300px !important;
+    background: white;
+    border: 1px #d8d8d8 solid;
+    box-shadow: 0px 2px 9px 0px rgba(150, 150, 150, 0.45);
+    max-width: 100%;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    right: 0;
+}
+.help-content {
+  width: 300px;
+}
+a#gethelp {
+    display: inline-block;
+    background: #cf1f2e;
+    color: white;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px;
+}
+.gethelpOpen {
+    background-color: #000000 !important;
+    display: block !important;
+    width: 100% !important;
+    color: #FFF !important;
+}
+p.close-help-me {
+    text-align: center;
+    margin: 10px 0px 0px 0px;
+    cursor: pointer;
+    padding: 10px;
+}
+
+
+/*
+* === BUTTONS ===
+*/
+a.top-button {
+    background: #cf1f2e;
+    color: #FFF !important;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px;
+}
