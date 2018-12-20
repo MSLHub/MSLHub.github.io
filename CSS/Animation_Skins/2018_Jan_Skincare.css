@@ -90,6 +90,8 @@ a#gethelp {
     display: block !important;
     width: 100% !important;
     color: #FFF !important;
+    text-align: center;
+    padding: 5px;
 }
 p.close-help-me {
     text-align: center;
