@@ -6,9 +6,9 @@
     var $noResults = $('#noResults');
     
     // Show all days on page load 
-    $cards.show();
+    $cards.fadeIn();
     // Hide the no results message
-    $noResults.hide();
+    $noResults.fadeOut();
     
     $categoryFilters.on('click', function(e){
       var $category = $(e.target);
@@ -29,8 +29,8 @@
     });
     
     function filterCards () {
-      $cards.show();
-      $noResults.hide();
+      $cards.fadeIn();
+      $noResults.fadeOut();
       
       var $day = $dayFilters.filter('.selected');
       var $category = $categoryFilters.filter('.selected');
@@ -42,10 +42,10 @@
       if (filterClasses) {
           var filter = filterClasses.join('');
           
-          $cards.not(filter).hide();
+          $cards.not(filter).fadeOut();
           
           if (!$cards.filter(filter).length) {
-            $noResults.show();
+            $noResults.fadeIn();
           }
           
       }
